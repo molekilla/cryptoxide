@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/molekilla/cryptoxide.git"
   },
-  "asMain": "assembly/crypto.wasm",
+  "ascMain": "assembly/crypto.wasm",
   "author": "",
   "license": "ISC",
   "bugs": {
