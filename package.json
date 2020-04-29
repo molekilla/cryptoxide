@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/molekilla/cryptoxide/issues"
   },
-  "homepage": "https://github.com/molekilla/cryptoxide#readme"
+  "homepage": "https://github.com/molekilla/cryptoxide#readme",
+  "dependencies": {
+    "@wasmer/wasi": "^0.10.2",
+    "as-bind": "^0.3.1"
+  }
 }
